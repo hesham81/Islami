@@ -9,5 +9,5 @@ class AppAssets {
   static const String quranICN = "assets/icons/Vector.png";
   static const String hadethICN = "assets/icons/Page-1.png";
   static const String radioICN = "assets/icons/lk.png";
-// static const String radioICN = "assets/icons/lk.png";
+// static const String radioICN = "assets/icons/lk.png"
 }

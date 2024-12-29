@@ -4,6 +4,8 @@ class AppAssets {
   static const String splashLeftIMG = "assets/images/Shape-04.png";
   static const String splashLogo = "assets/images/Group 36.png";
   static const String splashBranding = "assets/images/Group 37.png";
+  static const String lamp = "assets/images/lamp.png";
+  static const String headerOfSplashBG = "assets/images/header.png";
 
   // Icons Section
   static const String quranICN = "assets/icons/Vector.png";

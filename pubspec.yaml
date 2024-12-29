@@ -88,3 +88,12 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+  assets:
+    - assets/
+    - assets/files/
+    - assets/fonts/
+    - assets/icons/
+    - assets/images/
+    - lib/core/
+    - lib/core/constants/
+
